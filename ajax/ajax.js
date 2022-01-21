@@ -61,3 +61,7 @@ function popHandler() {
 
 	console.log("We are done")
 }
+
+// https://codepen.io/tcannonfodder/pen/QjpMoL
+// https://stackoverflow.com/questions/21884963/how-to-submit-this-form-using-ajax-without-jquery-but-pure-javascript/21885125
+//https://github.com/Kartik2301/personal-website/blob/master/portfolio/static/portfolio/custom.js
